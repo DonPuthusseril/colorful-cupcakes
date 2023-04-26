@@ -1,7 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #3a86ff;
-    color: whitesmoke;
+    background-color: #564E58;
+    color: rgb(151, 35, 35);
 }
 
 .cupcake {
@@ -12,6 +12,9 @@ body {
     /* flex : 1 */
 }
 
+.bob {
+    text-align: center;
+}
 .flex2 {
     flex : 2
 }
@@ -34,17 +37,17 @@ body {
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    background-color: #587792;
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    background-color: #CEE397;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color: #8DB1AB;
 }
 
 .blue {
-    background-color: #3a86ff;
+    background-color: #;
 }
